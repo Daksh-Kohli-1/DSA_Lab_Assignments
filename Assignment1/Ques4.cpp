@@ -121,16 +121,6 @@ int main(){
         {
             cout << mat1[i][j] << " ";
         }
-        cout << endl;
-    }
-    //take transpose
-    int trans[col1][row1];
-    for (int i = 0; i < row1; i++) {
-        for (int j = 0; j < col1; j++) {
-            trans[j][i] = mat1[i][j];
-        }
-    }
-
     //Print transpose
     cout << "The transpose is: " << endl;
     for (int i = 0; i < col1; i++)
