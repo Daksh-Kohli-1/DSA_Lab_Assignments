@@ -1,5 +1,5 @@
 #include <iostream>
-#include <vector>
+#include <vector>fewfwfewfwfew
     cout << "Unique Array is" << endl;
     for(int i=0;i<size;i++){
         cout << arr[i] << endl;
